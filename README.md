@@ -1,4 +1,4 @@
-# World Of Goo
+# Balls Of Goo
 
 ## A physic game with a lot of balls
 
