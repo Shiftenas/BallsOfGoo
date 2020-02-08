@@ -4,4 +4,4 @@
 
 _~~Like, a lot. A whole bunch of balls.~~_
 
-This game is like the real World of Goo, only to demonstrate how to program in Java.
+This game is like World of Goo, only to demonstrate how to program in Java.
